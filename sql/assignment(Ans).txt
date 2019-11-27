@@ -1,0 +1,66 @@
+1.Display all columns and all rows from the Employees table
+SELECT * FROM Employees
+
+2.Display the regionid, regiondescription for all rows in the Regions table.
+SELECT RegionID FROM Region;
+ 2.1 Modify query 2 so that the column headings are as follows:  "ID" and "Description“
+ SELECT RegionID,RegionDescription FROM Region;
+
+3.Display the customer ID, contract name, and region for all customers.  Name the columns "ID," "Name," and "Region" (respectively), and sort the data by the company name.
+SELECT CustomerID,ContactName,Region
+FROM Customers
+ORDER BY CompanyName
+
+4.Display list of CustomerID from the Orders table with required dates between Jan 1, 1997 and Dec 31, 1997 and with freight under 100 units and ShipCountry is 'Brazil'.
+SELECT CustomerID 
+FROM Orders
+WHERE OrderDate BETWEEN '1997-01-01' AND '1997-12-31' AND Freight<100 AND ShipCountry='Brazil'
+
+5.Display list of company names and contact names of all customers from country Mexico, Sweden and Germany.
+SELECT CompanyName,ContactName
+FROM Customers
+WHERE Country IN('Mexico','Sweden','Germany')
+
+6.Display all the company names, city, country and postal code from the Suppliers table that contain 'rue' in their address. The list should ordered alphabetically by company name.
+SELECT CompanyName,City,Country,PostalCode
+FROM Suppliers
+WHERE Address LIKE '%rue%'
+ORDER BY CompanyName
+
+7.Display list of customer companynames who have no orders in the Orders table.
+
+8.Display count of the number of discontinued products in the Products table
+SELECT COUNT(*) AS CountCiscontinued FROM Products WHERE Discontinued='1'
+
+9.Display average unit price of products that CategoryName is 'Beverages'
+SELECT AVG(UnitPrice)
+FROM Products INNER JOIN Categories
+ON Products.CategoryID = Categories.CategoryID
+WHERE CategoryName='Beverages'
+
+10.Display the lowest unit price of products each category
+SELECT MIN(UnitPrice)
+FROM Products INNER JOIN Categories
+ON Products.CategoryID = Categories.CategoryID
+
+11.Display shortname Shippers in the Shippers table if CompanyName is 'Speedy Express' display shortname is  'Ems Thai'
+if CompanyName is 'United Package' 	display shortname is   'Kerry Express' if CompanyName is 'Federal Shipping' display shortname is 'Lazada'
+
+12.Display sum UnitPrice * Quantity of Orders with OrderDate July 4, 1996
+SELECT SUM(UnitPrice*Quantity)
+FROM Orders INNER JOIN [Order Details]
+ON Orders.OrderID = [Order Details].OrderID
+WHERE OrderDate='1996-07-04'
+
+13.Write a query to add a shipper named 'Amazon' to the Shippers table
+INSERT INTO Shippers (CompanyName)
+VALUES ('Amazon');
+
+14.Write a query to change the company name from 'Amazon' to 'Amazon Prime Shipping' in the Shippers table
+UPDATE Shippers
+SET CompanyName = 'Amazon Prime Shipping'
+WHERE CompanyName LIKE '%Amazon%'
+
+15.Write a query to delete company name that contain 'Amazon' in the Shippers table
+DELETE FROM Shippers WHERE CompanyName LIKE '%Amazon%';
+
