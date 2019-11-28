@@ -1,0 +1,8 @@
+C:\Users\Net\source\repos\ShapeLib\bin\Debug\netcoreapp3.0\ShapeLib.deps.json
+C:\Users\Net\source\repos\ShapeLib\bin\Debug\netcoreapp3.0\ShapeLib.dll
+C:\Users\Net\source\repos\ShapeLib\bin\Debug\netcoreapp3.0\ShapeLib.pdb
+C:\Users\Net\source\repos\ShapeLib\obj\Debug\netcoreapp3.0\ShapeLib.AssemblyInfoInputs.cache
+C:\Users\Net\source\repos\ShapeLib\obj\Debug\netcoreapp3.0\ShapeLib.AssemblyInfo.cs
+C:\Users\Net\source\repos\ShapeLib\obj\Debug\netcoreapp3.0\ShapeLib.dll
+C:\Users\Net\source\repos\ShapeLib\obj\Debug\netcoreapp3.0\ShapeLib.pdb
+C:\Users\Net\source\repos\ShapeLib\obj\Debug\netcoreapp3.0\ShapeLib.csprojAssemblyReference.cache
