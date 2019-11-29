@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Net\\source\\repos\\ShapeLib\\ShapeLib.csproj": {}
+    "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeLib\\ShapeLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Net\\source\\repos\\ShapeLib\\ShapeLib.csproj": {
+    "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeLib\\ShapeLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Net\\source\\repos\\ShapeLib\\ShapeLib.csproj",
+        "projectUniqueName": "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeLib\\ShapeLib.csproj",
         "projectName": "ShapeLib",
-        "projectPath": "C:\\Users\\Net\\source\\repos\\ShapeLib\\ShapeLib.csproj",
+        "projectPath": "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeLib\\ShapeLib.csproj",
         "packagesPath": "C:\\Users\\Net\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Net\\source\\repos\\ShapeLib\\obj\\",
+        "outputPath": "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Net\\AppData\\Roaming\\NuGet\\NuGet.Config",

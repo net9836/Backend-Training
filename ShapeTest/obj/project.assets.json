@@ -6894,11 +6894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Net\\source\\repos\\ShapeTest\\ShapeTest.csproj",
+      "projectUniqueName": "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeTest\\ShapeTest.csproj",
       "projectName": "ShapeTest",
-      "projectPath": "C:\\Users\\Net\\source\\repos\\ShapeTest\\ShapeTest.csproj",
+      "projectPath": "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeTest\\ShapeTest.csproj",
       "packagesPath": "C:\\Users\\Net\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Net\\source\\repos\\ShapeTest\\obj\\",
+      "outputPath": "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6914,8 +6914,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Net\\source\\repos\\ShapeLib\\ShapeLib.csproj": {
-              "projectPath": "C:\\Users\\Net\\source\\repos\\ShapeLib\\ShapeLib.csproj"
+            "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeLib\\ShapeLib.csproj": {
+              "projectPath": "C:\\Users\\Net\\source\\repos\\Backend-Training\\ShapeLib\\ShapeLib.csproj"
             }
           }
         }
