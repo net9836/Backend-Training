@@ -1,0 +1,10 @@
+C:\Users\Net\source\repos\WebApp\Database\bin\Debug\netcoreapp3.0\Database.deps.json
+C:\Users\Net\source\repos\WebApp\Database\bin\Debug\netcoreapp3.0\Database.dll
+C:\Users\Net\source\repos\WebApp\Database\obj\Debug\netcoreapp3.0\Database.csprojAssemblyReference.cache
+C:\Users\Net\source\repos\WebApp\Database\obj\Debug\netcoreapp3.0\Database.AssemblyInfoInputs.cache
+C:\Users\Net\source\repos\WebApp\Database\obj\Debug\netcoreapp3.0\Database.AssemblyInfo.cs
+C:\Users\Net\source\repos\WebApp\Database\bin\Debug\netcoreapp3.0\Database.runtimeconfig.json
+C:\Users\Net\source\repos\WebApp\Database\bin\Debug\netcoreapp3.0\Database.runtimeconfig.dev.json
+C:\Users\Net\source\repos\WebApp\Database\bin\Debug\netcoreapp3.0\Database.pdb
+C:\Users\Net\source\repos\WebApp\Database\obj\Debug\netcoreapp3.0\Database.dll
+C:\Users\Net\source\repos\WebApp\Database\obj\Debug\netcoreapp3.0\Database.pdb

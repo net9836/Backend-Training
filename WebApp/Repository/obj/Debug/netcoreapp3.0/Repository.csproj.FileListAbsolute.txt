@@ -1,0 +1,11 @@
+C:\Users\Net\source\repos\WebApp\Repository\bin\Debug\netcoreapp3.0\Repository.deps.json
+C:\Users\Net\source\repos\WebApp\Repository\bin\Debug\netcoreapp3.0\Repository.dll
+C:\Users\Net\source\repos\WebApp\Repository\bin\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\Net\source\repos\WebApp\Repository\bin\Debug\netcoreapp3.0\Database.dll
+C:\Users\Net\source\repos\WebApp\Repository\bin\Debug\netcoreapp3.0\Database.pdb
+C:\Users\Net\source\repos\WebApp\Repository\obj\Debug\netcoreapp3.0\Repository.csprojAssemblyReference.cache
+C:\Users\Net\source\repos\WebApp\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Net\source\repos\WebApp\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfo.cs
+C:\Users\Net\source\repos\WebApp\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CopyComplete
+C:\Users\Net\source\repos\WebApp\Repository\obj\Debug\netcoreapp3.0\Repository.dll
+C:\Users\Net\source\repos\WebApp\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
